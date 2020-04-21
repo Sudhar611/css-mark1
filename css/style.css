@@ -46,6 +46,10 @@ hr{
   line-height: 2;
 }
 
+.hello{
+  margin-top:20px;
+}
+
 .profile-pic{
   width:80%;
 }
